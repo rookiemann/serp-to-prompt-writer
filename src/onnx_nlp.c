@@ -22,7 +22,7 @@
 #define EMBED_URL     "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/onnx/model.onnx"
 #define VOCAB_URL     "https://huggingface.co/dslim/bert-base-NER/resolve/main/vocab.txt"
 /* NLI (distilbart-mnli) — tokenizer from HuggingFace, model from GitHub release */
-#define NLI_MODEL_URL "https://github.com/rookiemann/serp-models/releases/download/v1.0/nli.onnx"
+#define NLI_MODEL_URL "https://github.com/aivrar/serp-models/releases/download/v1.0/nli.onnx"
 #define NLI_VOCAB_URL "https://huggingface.co/valhalla/distilbart-mnli-12-3/resolve/main/vocab.json"
 #define NLI_MERGE_URL "https://huggingface.co/valhalla/distilbart-mnli-12-3/resolve/main/merges.txt"
 
